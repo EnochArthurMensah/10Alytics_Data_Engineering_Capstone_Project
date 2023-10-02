@@ -130,7 +130,7 @@ The SQL transformation scripts rely on the following dependencies:
 
 bash
 ```
-git clone https://github.com/Owengerald/norby_inc_analytics_elt_pipeline.git
+git clone https://github.com/EnochArthurMensah/10Alytics_Data_Engineering_Capstone_Project.git
 ```
 
 2. Navigate to the project directory:
